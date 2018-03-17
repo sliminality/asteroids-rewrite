@@ -12,7 +12,8 @@ The source files are all written in [Pandoc Markdown](https://pandoc.org/MANUAL.
 
 You can write Markdown in your normal text editor, although you may need to install a syntax-highlighting extension for GitHub-Flavored Markdown.
 
-- [Atom](https://atom.io/) has built-in Markdown preview (I think Nate uses this, so ask him for help)
+- [Atom](https://atom.io/) has built-in Markdown preview
+- [VS Code](https://code.visualstudio.com/) has a Markdown preview extension. Nate can help with this.
 - [Sublime Text](https://www.sublimetext.com/) has the [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) package. Slim can help with editor config questions here.
 - Vim has the [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax) plugin. Again, Slim can help with configuration here.
 
